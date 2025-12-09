@@ -1,11 +1,3 @@
-A C-based command-line tool for text file manipulation with three main operations: filtering forbidden words, removing empty lines, and sorting lines alphabetically.
-
-Features
-Filter Forbidden Words: Remove specified words from a file using a forbidden words list
-Remove Empty Lines: Clean up files by eliminating blank lines
-Sort Lines: Arrange file lines in alphabetical order
-a fun lil project to refresh my memory for basics in C language 
-
 | Function      | Purpose                              |
 | ------------- | ------------------------------------ |
 | **fopen()**   | Opens a file (read/write).           |
